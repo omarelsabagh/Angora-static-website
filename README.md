@@ -1,2 +1,3 @@
 # Angora-static-website
-static website for a B-log
+static website for Angora portfolio.
+using only (HTML5-CSS3-Bootstrap-FontAwesome)
